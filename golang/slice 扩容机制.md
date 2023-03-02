@@ -1,5 +1,3 @@
-# Go slice 扩容机制分析
-
 ## 前言
 
 我们都知道 Go 语言中的 slice 具有动态扩容的机制（不知道的同学请先补课 [Go 切片](https://www.cnblogs.com/yahuian/p/11521501.html#_caption_1))

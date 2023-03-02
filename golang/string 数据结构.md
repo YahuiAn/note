@@ -1,12 +1,6 @@
-# Go string 一清二楚
-
-![20210216141958](image/20210216141958.png)
-
 ## 前言
 
 字符串（string） 作为 go 语言的基本数据类型，在开发中必不可少，我们务必深入学习一下，做到一清二楚。
-
-本文假设读者已经知道切片（slice）的使用，如不了解，可阅读 [Go 切片 基本知识点](https://www.cnblogs.com/yahuian/p/11521501.html#%E5%88%87%E7%89%87)
 
 为了更好的理解后文，推荐先阅读 [Unicode 字符集，UTF-8 编码](http://c.biancheng.net/cpp/html/3420.html)
 
